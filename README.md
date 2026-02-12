@@ -144,7 +144,7 @@ The application includes comprehensive error handling for:
 - **Development Time**: ~4 hours
 - **Features Implemented**: Core wallet functionality with professional UI and provider recovery
 - **Technologies Used**: Next.js, TypeScript, Tailwind CSS, Ethers.js, Lucide
-- **AI Tools**: WindSuf for code assistance and optimization
+- **AI Tools**: WindSurf for code assistance and optimization
 
 ### **Key Differentiators**
 - **Clean Interface** - Professional, focused design
