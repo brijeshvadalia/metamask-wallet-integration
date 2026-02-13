@@ -68,7 +68,7 @@ A **professional, clean, and focused** Web3 wallet interface built for the GetBl
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd getblock-assignment
+cd folder name
 ```
 
 2. Install dependencies:
